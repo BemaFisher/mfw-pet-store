@@ -5,6 +5,10 @@
   width: 85px;
 }
 
+.nav_bar {
+  margin-top: 20px;
+}
+
 header h1 {
   font-family: 'Satisfy', cursive;
   color:#0ea04b;
@@ -40,4 +44,35 @@ li:hover {
 
 .featured {
   margin-bottom: 60px;
+}
+
+.product {
+  background-color: #eeddcd;
+  margin: 5px;
+}
+
+.adopt {
+  background-color: #eeddcd;
+}
+
+.product {
+  padding: 1.5em;
+  margin-right: 5%;
+}
+
+.text1 {
+  padding: 20px 10px;
+}
+
+footer {
+  height: 120px;
+  background-color: #eeddcd;
+}
+
+.centered {
+  margin-top: 22px;
+
+}
+.address , .fab , .hidden-xs{
+  color: #5c433f;
 }
