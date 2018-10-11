@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.logo {
+  width: 85px;
+}
+
+.nav_bar {
+  margin-top: 20px;
+}
+
+header h1 {
+  font-family: 'Satisfy', cursive;
+  color:#0ea04b;
+}
+
+li a, .jumbotron button {
+  border: 1px solid #5c433f;
+  color:#5c433f;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+
+li:hover {
+
+}
+.nav-pills>li.active>a {
+  color: #5c433f;
+  background-color: #eeddcd;
+}
+
+.jumbotron {
+  background-image: url('../img/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.jumbotron h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+.featured {
+  margin-bottom: 60px;
+}
+
+.product {
+  background-color: #eeddcd;
+  margin: 5px;
+}
+
+.adopt {
+  background-color: #eeddcd;
+}
+
+.product {
+  padding: 1.5em;
+  margin-right: 5%;
+}
+
+.text1 {
+  padding: 20px 10px;
+}
+
+footer {
+  height: 120px;
+  background-color: #eeddcd;
+}
+
+.centered {
+  margin-top: 22px;
+
+}
+.address , .fab , .hidden-xs{
+  color: #5c433f;
+}
